@@ -3,4 +3,3 @@
 <h2> Glad to see you here </h2>
 <h3>Srinivasu Dandamudi</h3>
 
-<img src="assets/srinu.jpeg"  alt="" />
